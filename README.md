@@ -1,6 +1,6 @@
 # Welcome to Remix!
 
-- [Remix Docs](https://remix.run/docs)
+Deployed to [https://3000.sbdmn-me.lg-apps.tech](https://3000.sbdmn-me.lg-apps.tech)
 
 ## Fly Setup
 
